@@ -1,0 +1,25 @@
+body{
+    height: 90vh;
+    margin:0px;
+}
+
+main{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main > * {
+    margin: 10px; 
+}
+
+input[name="userInfo"]{
+    width: 200px;
+    height: 280px;
+}
+
+select{
+    text-align: center;
+}

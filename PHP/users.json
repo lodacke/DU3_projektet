@@ -1,0 +1,136 @@
+[
+    {
+        "username": "sandra",
+        "password": "123",
+        "age": "22",
+        "gender": "female"
+    },
+    {
+        "username": "qwqww",
+        "password": "qwqwq",
+        "age": "13",
+        "gender": "none"
+    },
+    {
+        "username": "qwq",
+        "password": "",
+        "age": "",
+        "gender": "none"
+    },
+    {
+        "username": "wewe",
+        "password": "www",
+        "age": "15",
+        "gender": "none"
+    },
+    {
+        "username": "www23",
+        "password": "www",
+        "age": "18",
+        "gender": "male"
+    },
+    {
+        "username": "www1212",
+        "password": "qwqww",
+        "age": "23",
+        "gender": "none"
+    },
+    {
+        "username": "hellen",
+        "password": "rerer",
+        "age": "33",
+        "gender": "male",
+        "interests": {
+            "userInfo": null,
+            "contact": null
+        },
+        "preference": {
+            "genderOf": null,
+            "ageOf": null
+        }
+    },
+    {
+        "username": "username",
+        "password": "12121",
+        "age": "45",
+        "gender": "male",
+        "interests": {
+            "userInfo": "info",
+            "contact": null
+        },
+        "preference": {
+            "genderOf": "male",
+            "ageOf": "23"
+        }
+    },
+    {
+        "username": "user",
+        "password": "sed",
+        "age": "34",
+        "gender": "male",
+        "interests": {
+            "userInfo": "infoinfoinfo",
+            "contact": null
+        },
+        "preference": {
+            "genderOf": "male",
+            "ageOf": "21"
+        }
+    },
+    {
+        "username": "usernameeee",
+        "password": "ss",
+        "age": "22",
+        "gender": "female",
+        "interests": {
+            "userInfo": "sdsds",
+            "contact": "wwewe"
+        },
+        "preference": {
+            "genderOf": "female",
+            "ageOf": "22"
+        }
+    },
+    {
+        "username": "usernameSS",
+        "password": "password",
+        "age": "23",
+        "gender": "female",
+        "interests": {
+            "userInfo": "infoinfoinfo",
+            "contact": "emailadress"
+        },
+        "preference": {
+            "genderOf": "male",
+            "ageOf": "34"
+        }
+    },
+    {
+        "username": "ff",
+        "password": "ss",
+        "age": "23",
+        "gender": "male",
+        "interests": {
+            "userInfo": "I am a ",
+            "contact": "hereisemail@email.com"
+        },
+        "preference": {
+            "genderOf": "male",
+            "ageOf": "27"
+        }
+    },
+    {
+        "username": "Gigi",
+        "password": "l\u00f6senord",
+        "age": "32",
+        "gender": "female",
+        "interests": {
+            "userInfo": "H\u00e4r st\u00e5r det lite information om mig",
+            "contact": "email@email.com"
+        },
+        "preference": {
+            "genderOf": "female",
+            "ageOf": "24"
+        }
+    }
+]
